@@ -1,0 +1,11 @@
+
+README			Generic information.
+vertical.txt		Example of different vertical sizes of banners.
+documentation.txt	Detailed documentation on how to use this module.
+horizontal.txt		Example of different horizontal sizes of banners.
+Banner.pm		The module itself.
+Makefile.PL		Perl Makefile builder.
+example.pl		Example on how to use the module.
+Changes			Revision history.
+MANIFEST		This file.
+
